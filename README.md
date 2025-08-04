@@ -26,7 +26,7 @@ PORT=5000
 `npm start`
 
 ## Open frontend at `http://localhost:3000`
-### Backend API runs at `http://localhost:5000`
+## Backend API runs at `http://localhost:5000`
 
 ## Usage
 Search by brand or model
